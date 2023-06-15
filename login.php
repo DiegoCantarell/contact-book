@@ -120,7 +120,8 @@ va volviendo responsivo-->
       <div class="row">
         <div class="col-12 col-sm-3 col-lg-4"></div>
         <div class="col-12 col-sm-6 col-lg-4">
-        <h1>PROYECTO AGENDA BUAP</h1>
+        <h1>Contact Book</h1>
+        <h2>Login</h2>
           <!--Nombre que se le da al formulario para alcanzarlo-->
           <form action="autenticar.php" id = "formulario" method = "post" >
             <div class="form-group">
