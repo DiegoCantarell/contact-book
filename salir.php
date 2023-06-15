@@ -1,5 +1,4 @@
 <?php
-
 session_start();
 // Ya tengo creados mis métodos que validan 
 //la sesion
