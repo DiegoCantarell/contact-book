@@ -76,7 +76,7 @@ creamos las referencias a BootStrap*/
         <nav class="navbar navbar-expand-sm big-light navbar-light" style="background-color:rgb(16,108,252);">
           <div class="container-fluid">
             <a class="navbar-brand" href="#prueba" id="logo">Ocultar Sidebar</a>
-            <div class="collapse navbar-collapse d-flex justify-content-end"><p style="font-size: 20px;"><strong>By Diego Gabriel Caballero Cantarell - 201843326</strong></p></div>
+            <div class="collapse navbar-collapse d-flex justify-content-end"><p style="font-size: 20px;"><strong>By Diego Cantarell</strong></p></div>
             <div class="collapse navbar-collapse d-flex justify-content-end" id="minavbar">
               <ul class="navbar-nav">
                 <li class="nav-item">
